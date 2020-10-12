@@ -1,0 +1,11 @@
+C:\Users\Who\source\repos\AutoDecep\AutoDecep\bin\Debug\AutoDecep.exe.config
+C:\Users\Who\source\repos\AutoDecep\AutoDecep\bin\Debug\AutoDecep.exe
+C:\Users\Who\source\repos\AutoDecep\AutoDecep\bin\Debug\AutoDecep.pdb
+C:\Users\Who\source\repos\AutoDecep\AutoDecep\obj\Debug\AutoDecep.csprojAssemblyReference.cache
+C:\Users\Who\source\repos\AutoDecep\AutoDecep\obj\Debug\AutoDecep.Properties.Resources.resources
+C:\Users\Who\source\repos\AutoDecep\AutoDecep\obj\Debug\AutoDecep.csproj.GenerateResource.cache
+C:\Users\Who\source\repos\AutoDecep\AutoDecep\obj\Debug\AutoDecep.csproj.CoreCompileInputs.cache
+C:\Users\Who\source\repos\AutoDecep\AutoDecep\obj\Debug\AutoDecep.exe
+C:\Users\Who\source\repos\AutoDecep\AutoDecep\obj\Debug\AutoDecep.pdb
+C:\Users\Who\source\repos\AutoDecep\AutoDecep\obj\Debug\AutoDecep.Form1.resources
+C:\Users\Who\source\repos\AutoDecep\AutoDecep\obj\Debug\AutoDecep.Form2.resources
